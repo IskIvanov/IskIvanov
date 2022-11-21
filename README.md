@@ -1,10 +1,10 @@
 ### Iskren Ivanov | https://iskren.dev ### 
 
-- 🔭 I’m currently working on https://github.com/IskIvanov/portfolio_rebuild 
-- 🌱 I’m currently learning Nodejs and Go 🤓
-- 📫 How to reach me: +31 642494693
+Hi 👋 I'm Iskren, a freelance software engineer based in Amsterdam 🇳🇱
 
---
+- 🔭 I’m currently working on a small Portfolio rebuild with React and Next.js
+- 🌱 I’m currently learning Nodejs,Go and Dutch 🇳🇱 🤓
+- 👷 I'm available for new project from 1st of January.
 
-
+<!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=iskivanov) -->
 
