@@ -7,5 +7,3 @@ Hi 👋 I'm Iskren, a freelance software engineer based in _Amsterdam_.
 - 🌱 I’m currently learning Nodejs,Go and Dutch 🇳🇱 🤓
 - 👷 I'm available for new project from January.
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=IskIvanov)
-
