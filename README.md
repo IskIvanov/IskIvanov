@@ -1,4 +1,4 @@
-### Iskren Ivanov | https://iskren.dev ### 
+### Iskren Ivanov
 
 Hi 👋 I'm Iskren, a freelance software engineer based in _Amsterdam_.
 
