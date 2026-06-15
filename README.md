@@ -1,4 +1,7 @@
+# Hi, I'm Iskren 👋
 
+Senior Fullstack Engineer based in **Amsterdam, Netherlands**.  
+I build applications end-to-end — from data layer to UI — and care about both sides of the stack being done well.
  
  ---
 
