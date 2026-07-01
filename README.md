@@ -1,7 +1,7 @@
 # Hi, I'm Iskren 👋
 
-Senior Fullstack Engineer based in **Amsterdam, Netherlands**.  
-I build applications end-to-end — from data layer to UI — and care about both sides of the stack being done well.
+Senior Full-stack Engineer based in **Amsterdam, Netherlands**.  
+I build applications end-to-end — from the data layer to the UI — and care that both sides of the stack are done well.
  
  ---
 
@@ -19,8 +19,8 @@ I build applications end-to-end — from data layer to UI — and care about bot
 
   ### 🚀 Currently building
 
-  - Backend focused projects — APIs, services, CLI tools
-  - Portfolio & blog written in **Astro**  - https://iskren.dev/ 
+  - Backend-focused projects — APIs, Services, CLI tools
+  - Personal website written in **Astro**  - https://iskren.dev/ 
   - Latest writings: ([Same Patterns, Different Syntax — React, Vue & Svelte
   compared](https://iskren.dev/en/blog/comparing-frontend-frameworks/))
   ---
