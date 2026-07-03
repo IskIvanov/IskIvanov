@@ -29,8 +29,7 @@ I build applications end-to-end — from the data layer to the UI — and care t
 
   Product Engineer · Senior Fullstack · Frontend-leaning Fullstack · Backend-leaning
   Fullstack
-  *Scale-ups and product companies where engineers own features
-  end-to-end*
+  *Scale-ups and product companies*
 
   ---
 
