@@ -7,7 +7,7 @@ I build applications end-to-end — from the data layer to the UI — and care t
 
   ### 🔨 Stack
 
-  **Frontend** · React · TypeScript · Next.js · GraphQL
+  **Frontend** · TypeScript · React · Next.js 
 
   **Backend** · Node.js · Python · GraphQL · REST
   
@@ -18,8 +18,8 @@ I build applications end-to-end — from the data layer to the UI — and care t
   ---
 
   ### 🚀 Currently building
-
-  - Backend-focused projects — APIs, Services, CLI tools
+  - Latest forks and contributions 
+  - Backend-focused projects — APIs, Services, CLI tools, (browser plugins and extentions)
   - Personal website written in **Astro**  - https://iskren.dev/ 
   - Latest writings: ([Same Patterns, Different Syntax — React, Vue & Svelte
   compared](https://iskren.dev/en/blog/comparing-frontend-frameworks/))
@@ -27,7 +27,7 @@ I build applications end-to-end — from the data layer to the UI — and care t
 
   ### 🎯 Open to
 
-  Product Engineer · Senior Fullstack · Frontend-leaning Fullstack · Backend-leaning
+  Product Engineer · Fullstack Developer · Frontend-leaning Fullstack · Backend-leaning
   Fullstack
   *Scale-ups and product companies*
 
